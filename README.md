@@ -1,0 +1,1 @@
+This paper presents an academia-industry joint case study concerning an effective way to quantify and compare multi-year changes in power production performance of multiple turbines scattered over a mid-size wind farm.
